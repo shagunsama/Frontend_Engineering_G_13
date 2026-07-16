@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    padding-top: 70px; 
+}
+.header {
+    color: 
+    beige ;
+    text-align: center;
+    border: 5px solid hotpink;
+    border-radius: 30px;
+    padding-top: 10px;
+    font-size: 30px;
+    font-family: "Playwrite NZ", cursive;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+    float: left;
+}
+.header1 {
+    color: beige;
+    text-align: center;
+    border: solid hotpink;
+    border-radius: 20px;
+    padding-top: 30px;
+    font-size: 10px;
+    font-family: "Playwrite NZ", cursive;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+    float: right;
+
+}
+.header2 {
+    color:
+    beige;
+    text-align: center;
+    border: 5px solid hotpink;
+    border-radius:30px;
+    padding-top: 30px;
+    font-size: 30px;
+    font-family: "Playwrite NZ", cursive;
+    font-optical-sizing: auto;
+    font-weight: 10px;
+    font-style: normal;
+
+    
+}
+
+.btn {
+    display: block;
+    margin: 50px auto;
+    background: linear-gradient(135deg, #ff4fd8, #8a2be2);
+    color: white;
+    border: 2px solid #ff80df;
+    border-radius: 15px;
+    padding: 15px 40px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 15px #ff4fd8,
+                0 0 30px #8a2be2;
+}
